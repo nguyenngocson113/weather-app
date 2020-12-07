@@ -1,0 +1,687 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Result /> is rendered snapshot <Result /> component 1`] = `
+.c3 {
+  color: #FFFFFF;
+  display: block;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: left;
+  padding: 5px 0;
+}
+
+.c7 {
+  color: #FFFFFF;
+  display: block;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: left;
+  padding: 5px 0;
+}
+
+.c7:first-letter {
+  text-transform: uppercase;
+}
+
+.c10 {
+  color: #FFFFFF;
+  display: block;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px 0;
+}
+
+.c11 {
+  color: #FFFFFF;
+  display: block;
+  font-size: 12px;
+  text-align: center;
+}
+
+.c15 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-flex-basis: 90px;
+  -ms-flex-preferred-size: 90px;
+  flex-basis: 90px;
+  padding: 10px;
+  margin: 0 5px;
+  border-radius: 5px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.c15:first-child {
+  margin-left: 0;
+}
+
+.c15:last-child {
+  margin-right: 0;
+}
+
+.c16 {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+}
+
+.c2 {
+  color: #FFFFFF;
+  display: block;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: left;
+  padding: 5px 0;
+}
+
+.c13 {
+  color: #FFFFFF;
+  display: block;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: left;
+  padding: 5px 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 40px 0;
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  top: 20px;
+  -webkit-animation: dhgPis 0.5s 1.4s forwards;
+  animation: dhgPis 0.5s 1.4s forwards;
+}
+
+.c1 {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+}
+
+.c4 {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  display: grid;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-template-columns: auto 1fr;
+  margin: 20px 0;
+  grid-gap: 30px;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 70px;
+  color: #ffffff;
+}
+
+.c6 {
+  display: block;
+  font-size: 50px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.c8 {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 10px 0;
+  margin: 20px 0;
+  background-color: rgba(255,255,255,0.2);
+  border-radius: 10px;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.c9 {
+  -webkit-flex-basis: calc(100% / 3);
+  -ms-flex-preferred-size: calc(100% / 3);
+  flex-basis: calc(100% / 3);
+  padding: 10px;
+}
+
+.c12 {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.c14 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  -webkit-scrollbar-color: lightgray #ffffff;
+  -moz-scrollbar-color: lightgray #ffffff;
+  -ms-scrollbar-color: lightgray #ffffff;
+  scrollbar-color: lightgray #ffffff;
+  -webkit-scrollbar-width: thin;
+  -moz-scrollbar-width: thin;
+  -ms-scrollbar-width: thin;
+  scrollbar-width: thin;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+}
+
+@media (min-width:768px) {
+  .c3 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c3 {
+    font-size: 23px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c3 {
+    font-size: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c7 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c7 {
+    font-size: 23px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c7 {
+    font-size: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c10 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c10 {
+    font-size: 23px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c10 {
+    font-size: 26px;
+  }
+}
+
+@media (min-width:768px) {
+  .c11 {
+    font-size: 15px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c11 {
+    font-size: 17px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c11 {
+    font-size: 19px;
+  }
+}
+
+@media (min-width:768px) {
+  .c15 {
+    -webkit-flex-basis: 110px;
+    -ms-flex-preferred-size: 110px;
+    flex-basis: 110px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c15 {
+    -webkit-flex-basis: 125px;
+    -ms-flex-preferred-size: 125px;
+    flex-basis: 125px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c15 {
+    -webkit-flex-basis: 140px;
+    -ms-flex-preferred-size: 140px;
+    flex-basis: 140px;
+  }
+}
+
+@media (min-width:768px) {
+  .c2 {
+    font-size: 37px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c2 {
+    font-size: 43px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c2 {
+    font-size: 52px;
+  }
+}
+
+@media (min-width:768px) {
+  .c13 {
+    font-size: 23px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c13 {
+    font-size: 26px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c13 {
+    font-size: 29px;
+  }
+}
+
+@media (min-width:525px) {
+  .c4 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width:768px) {
+  .c4 {
+    grid-template-columns: 1fr 1fr;
+    padding-right: 20px;
+  }
+}
+
+@media (min-width:768px) {
+  .c5 {
+    font-size: 100px;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+}
+
+@media (min-width:1024px) {
+  .c5 {
+    font-size: 120px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c5 {
+    font-size: 140px;
+  }
+}
+
+@media (min-width:768px) {
+  .c6 {
+    font-size: 70px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c6 {
+    font-size: 90px;
+  }
+}
+
+@media (min-width:1440px) {
+  .c6 {
+    font-size: 110px;
+  }
+}
+
+@media (min-width:525px) {
+  .c8 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+  }
+}
+
+@media (min-width:1024px) {
+  .c9 {
+    padding: 20px 10px;
+  }
+}
+
+@media (min-width:1024px) {
+  .c14 {
+    -webkit-order: 4;
+    -ms-flex-order: 4;
+    order: 4;
+  }
+}
+
+@media (min-width:768px) {
+  .c14 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <h2
+      className="c2"
+    >
+      Vinh
+      , 
+      VN
+    </h2>
+    <h4
+      className="c3"
+    >
+      Monday 7 December
+    </h4>
+  </div>
+  <div
+    className="c4"
+  >
+    <div
+      className="c5"
+    >
+      <svg
+        aria-hidden="true"
+        className="svg-inline--fa fa-cloud fa-w-20 "
+        data-icon="cloud"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        style={Object {}}
+        viewBox="0 0 640 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4z"
+          fill="currentColor"
+          style={Object {}}
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+    >
+      <h3
+        className="c6"
+      >
+        19
+        °
+      </h3>
+      <h4
+        className="c7"
+      >
+        overcast clouds
+      </h4>
+    </div>
+  </div>
+  <div
+    className="c8"
+  >
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        19°
+      </h4>
+      <span
+        className="c11"
+      >
+        Hight
+      </span>
+    </div>
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        4.53mph
+      </h4>
+      <span
+        className="c11"
+      >
+        Wind
+      </span>
+    </div>
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        6:17:
+      </h4>
+      <span
+        className="c11"
+      >
+        Sunrise
+      </span>
+    </div>
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        19°
+      </h4>
+      <span
+        className="c11"
+      >
+        Low
+      </span>
+    </div>
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        78%
+      </h4>
+      <span
+        className="c11"
+      >
+        Rain
+      </span>
+    </div>
+    <div
+      className="c9"
+    >
+      <h4
+        className="c10"
+      >
+        5:20:
+      </h4>
+      <span
+        className="c11"
+      >
+        Sunset
+      </span>
+    </div>
+  </div>
+  <div
+    className="c12"
+  >
+    <h3
+      className="c13"
+    >
+      Forecast
+    </h3>
+    <div
+      className="c14"
+    >
+      <div
+        className="c15"
+      >
+        <span
+          className="c11"
+        >
+          Monday
+        </span>
+        <img
+          className="c16"
+          src="https://openweathermap.org/img/w/04d.png"
+        />
+        <h4
+          className="c10"
+        >
+          20° - 17°
+        </h4>
+      </div>
+      <div
+        className="c15"
+      >
+        <span
+          className="c11"
+        >
+          Tuesday
+        </span>
+        <img
+          className="c16"
+          src="https://openweathermap.org/img/w/04d.png"
+        />
+        <h4
+          className="c10"
+        >
+          20° - 16°
+        </h4>
+      </div>
+      <div
+        className="c15"
+      >
+        <span
+          className="c11"
+        >
+          Wednesday
+        </span>
+        <img
+          className="c16"
+          src="https://openweathermap.org/img/w/03d.png"
+        />
+        <h4
+          className="c10"
+        >
+          22° - 15°
+        </h4>
+      </div>
+      <div
+        className="c15"
+      >
+        <span
+          className="c11"
+        >
+          Thursday
+        </span>
+        <img
+          className="c16"
+          src="https://openweathermap.org/img/w/10d.png"
+        />
+        <h4
+          className="c10"
+        >
+          21° - 17°
+        </h4>
+      </div>
+      <div
+        className="c15"
+      >
+        <span
+          className="c11"
+        >
+          Friday
+        </span>
+        <img
+          className="c16"
+          src="https://openweathermap.org/img/w/10d.png"
+        />
+        <h4
+          className="c10"
+        >
+          24° - 19°
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+`;

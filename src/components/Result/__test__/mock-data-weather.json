@@ -1,0 +1,15 @@
+{
+  "city": "Vinh",
+  "clouds": 96,
+  "country": "VN",
+  "date": "Monday 7 December",
+  "description": "overcast clouds",
+  "highestTemp": 19.11,
+  "humidity": 78,
+  "lowestTemp": 19.11,
+  "main": "Clouds",
+  "sunrise": "6:17:",
+  "sunset": "5:20:",
+  "temp": 19.11,
+  "wind": 4.53
+}
