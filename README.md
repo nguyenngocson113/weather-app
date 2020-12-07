@@ -14,6 +14,10 @@ First clone this repository.
 $ git clone https://github.com/nguyenngocson113/weather-app.git
 ```
 
+Create file .env and add
+REACT_APP_API_KEY=9de243494c0b295cca9337e1e96b00e2
+REACT_APP_WEATHER_API=https://api.openweathermap.org/data/2.5
+
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
 ```bash
