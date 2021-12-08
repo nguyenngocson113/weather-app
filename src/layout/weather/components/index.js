@@ -5,7 +5,7 @@ import SearchCity from 'components/SearchCity';
 import device from 'responsive/Device';
 import Result from 'components/Result';
 import NotFound from 'components/NotFound';
-import { getWeather, getForecast } from '../data-actions/';
+import { getWeather, getForecast } from "../data-actions";
 import { useWeatherState, useForecastState } from '../data-actions/use-state';
 
 const AppTitle = styled.h1`
@@ -90,7 +90,7 @@ const Home = () => {
       <AppTitle showLabel={hasData}>Weather app</AppTitle>
       <WeatherWrapper>
         <AppTitle secondary showResult={hasData}>
-          Weather app
+          Weather web
         </AppTitle>
         <SearchCity
           value={city}

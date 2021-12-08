@@ -15,7 +15,7 @@
     "gh-pages": "^2.2.0",
     "immutable": "^4.0.0-rc.12",
     "jest-styled-components": "^7.0.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "node-sass": "^4.13.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
@@ -24,6 +24,7 @@
     "react-scripts": "^3.4.1",
     "react-test-renderer": "^17.0.1",
     "redux": "^4.0.5",
+    "redux-form": "^8.3.7",
     "redux-immutable": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.0.1"
